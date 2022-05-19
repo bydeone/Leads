@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263164217004",
+    "project_id": "leads-3400a",
+    "storage_bucket": "leads-3400a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263164217004:android:a809f5024b4a8e55ea0109",
+        "android_client_info": {
+          "package_name": "com.deone.leads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263164217004-nhnbdgamvmc49mn15okgdaqg5erm275a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdqotQiGmrb9YBrEUOGkpti7u2p-D6Crc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263164217004-nhnbdgamvmc49mn15okgdaqg5erm275a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
